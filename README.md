@@ -246,3 +246,14 @@ Det finns vissa system där man kan omvandla från block till JavaScript, Python
 Chrome: https://chrome.google.com/webstore/detail/coding-with-chrome/becloognjehhioodmnimnehjcibkloed  
 Där kan man omvandlar Blockly till JavaScript.
 
+
+Här är ett Scratch-program som beräknar när påskdagen infaller: https://scratch.mit.edu/projects/108815587/
+
+Formeln programmet använder förklaras i "Gauss : matematikernas konung" av Tord Hall: http://libris.kb.se/bib/8074192 . Jag läste 
+dock boken i gymnasiet 1982-1985 och har inte kollat i den sedan dess. Jag tror dock den boken kan vara bra även för 
+dagens gymnasieelever. Boken finns också på engelska: http://www.amazon.com/Carl-Friedrich-Gauss-Tord-Hall/dp/0262080400
+
+Jag har översatt ett program i C till Java till Scratch (samtliga program är öppen källkod). Se mer information i beskrivningen på 
+sidan för programmet.
+
+iiS har nyligen gett ut en bok om algoritmer, men jag vet inte om den är bra: https://www.iis.se/fakta/algoritmer/
