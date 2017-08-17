@@ -257,3 +257,50 @@ Jag har översatt ett program i C till Java till Scratch (samtliga program är �
 sidan för programmet.
 
 iiS har nyligen gett ut en bok om algoritmer, men jag vet inte om den är bra: https://www.iis.se/fakta/algoritmer/
+
+
+Hej,
+jag har gjort en video som visar ett ScratchX-projekt som högläser tweets på Twitter som innehåller ett visst ord -- just nu #RaspberryPi:
+https://youtu.be/2EpZ1zx6DRU
+Mer information om projektet som är öppen källkod finns här:
+https://mobluse.github.io/scratchx/
+
+Man behöver bara klicka på en länk och vänta en stund medan projektet laddas och sen klicka på grön flagga. (Det var en bugg tidigare som gjorde att alla extensions inte laddades, utan man fick ladda in vissa manuellt, men det verkar fungera automatiskt nu.)
+http://scratchx.org/?url=https://mobluse.github.io/scratchx/speaktweet.sbx
+Instruktioner finns i en kommentar i projektet:
+' Click a green flag. It reads selected tweets aloud. Tweets are selected if they contain a word: now "#raspberrypi", and are not replies. An alarm starts sounding after that and you need to stop it by clicking the bell. Tweets are also stored in a list with the latest on top.
+
+Sometimes Twitter doesn't load automatically, but then you can load it using Load Experimental Extension in More Blocks:  
+https://technoboy10.github.io/twitter/extension.js
+
+Text to Speech, in case you need to load that manually:  
+http://sayamindu.github.io/scratch-extensions/text-to-speech/text_to_speech_extension.js '
+
+Man måste möjligen också ha installerat något uppläsningssystem i Chrome/Chromium. Jag har SpeakIt! 0.2.995.
+
+ScratchX är ett system för att utvidga Scratch2 med extensions skrivna i JavaScript. Det finns t.ex. en extension för att koppla till Arduino UNO, men jag har inte testat den. Det finns en annan extension för att koppla till en vädertjänst och den har jag testat för Lund.
+
+Det finns ett forum för hur man utvecklar Scratch extensions. Jag skrev frågor här och de problemen är lösta:  
+https://scratch.mit.edu/discuss/topic/265410/  
+https://scratch.mit.edu/discuss/topic/265601/
+
+Det finns en officiell lista med extensions http://scratchx.org/#extensions och även en inofficiell:
+http://savaka2.github.io/scratch-extensions-directory/
+
+ScratchX-projekt kan även fungera i Raspberry Pi 2 och 3 om man använder den inbyggda Scratch 2 och byter filändelse från sbx till sb2, samt laddar extensions manuellt. De kan även fungera i webbläsaren Chromium, ty den har inbyggd Flash.
+
+ScratchX är bra för dem som kan Scratch 2 eftersom det gör det möjligt att skriva Scratch-program som kopplar mer till Internet och hårdvara. Man kan skriva egna extensions i JavaScript som t.ex. skickar e-brev via GMail. Det kan motivera mer avancerade elever att lära sig JavaScript, ty man kan hjälpa elever som bara kan Scratch att skriva mer verklighetsnära program.
+
+
+Scratch 3:  
+https://llk.github.io/scratch-gui/
+
+Det finns ytterligare ett blockspråk nu: Python i form av block: http://edublocks.org/
+Har ej testat det än.
+
+NetsBlox ser inte ut som Python. Det är dåligt att EduBlocks bara finns för Raspberry Pi (ARM), men det kanske portas till x86 med 
+tiden, ty så har skett med SonicPi. Jag har testat EduBlocks på Raspberry Pi 3. Jo, det fungerar, men har inte lika många funktioner 
+som Scratch. Man kan i vissa fall skriva in Python-funktioner för hand. EduBlocks kör i Chromium och använder en egen webbserver. 
+Systemet kan ibland haka upp sig.
+
+I demon finns inga listor alls. Jag hoppas listor blir första klassens objekt, d.v.s. att man kan ha listor som argument till procedurer och ha listor med listor o.s.v. Snap! har redan detta, men var ganska buggigt när jag provade det sist.
