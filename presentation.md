@@ -18,8 +18,7 @@ Micro:bit med Blockly och JavaScript, Mico:bit med Mu (MicroPython), Koda.nu (Ja
 Arduino med kompilerad Scrach, Lego-robotar med Scratch (egentligen Snap!) eller LabView, Code.org (Blockly) o.s.v.
 
 ## Föreläsning som exempel på lösning: Scratch 2 på gymnasiet
-I enlighet med:
-[Diskussion i Matematikundervisning på Facebook](https://www.facebook.com/groups/matematikundervisning/permalink/1370508519676612/?match=b2xvZiBkYWhsLGRhaGwsb2xvZiw%3D)
+I enlighet med: [Diskussion i Matematikundervisning på Facebook](https://www.facebook.com/groups/matematikundervisning/permalink/1370508519676612/?match=b2xvZiBkYWhsLGRhaGwsb2xvZiw%3D).  
 Trots att detta är en kurs för grundskollärare kan det vara intressant att utreda om ett system avsett för yngre ungdomar går
 att använda på gymnasienivå.
 
@@ -103,7 +102,7 @@ program då och då.
 Inte som standard, men det går att utveckla. Dock är det inte lika lätt att importera bibliotek i Scratch som i t.ex. Python,
 ty man måste släpa in dem eller starta från ett mallprojekt.
 
-### Prestanda/Snabbhet
+### Strömförbrukning/Snabbhet?
 Det är ett tolkat språk och alltså ganska långsamt -- dock finns en turbo-mod. Det finns ett kompilerande system kallat 
 Phosphorus som enbart kräver JavaScript och som är mycket snabbare.
 
