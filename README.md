@@ -146,23 +146,24 @@ boken http://www.bokus.com/bok/9789186917326/pa-aventyr-med-raspberry-pi/ .
 https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
 
- Kojo på http://www.lth.se/programmera/
+Kojo på http://www.lth.se/programmera/
  
  
- http://www.rosettacode.org/wiki/Hello_world/Text
+http://www.rosettacode.org/wiki/Hello_world/Text
  
  
- Jag har testat micro:bit ikväll för första gången. Jag köpte 2 st. på Electrokit för att kunna testa radiokommunikationen. 
- Först provade jag JavaScript, men avläsning av knapparna fungerade ej pålitligt med hjälp av händelser. Programmet fungerade 
- bra i emulatorn, men inte så bra i verkligheten. Därefter gick jag över til MicroPython. Där verkar det inte finnas en 
- emulator, men man kan köra kommandon interaktivt. Jag använde pdf-filen "micro:bit MicroPython in 60 minutes" 
- https://leanpub.com/microbitmicropython (gratis) för att komma igång. Boken använder Mu som redigerare. Jag har testat 
- den mesta hårdvaran: display, knappar, accelerometer, termometer, kompass, radio. Kompassen verkade vara lite okänslig. 
- Radion fungerade bara om man använder versionen av Mu på hemsidan, och inte den som finns lätt installerbar i 
- Raspberry Pi -- detta skall dock fixas om några veckor. Radioapparaterna fungerar bra, men använder ett eget protokoll 
- och inte Bluetooth (BT)  när man kör MicroPython (MP), ty MP+BT kräver mer RAM än de 16 KB som micro:bit har (samma som 
- ABC 80 i original). Mu på hemsidan finns för Windows, Mac OS X och Linux x86. Jag beställde även ett startpaket för 
- micro:bit med elektronik, men det var tillfälligt slut.
+Jag har testat micro:bit ikväll för första gången. Jag köpte 2 st. på Electrokit för att kunna testa radiokommunikationen. 
+Först provade jag JavaScript, men avläsning av knapparna fungerade ej pålitligt med hjälp av händelser. Programmet fungerade 
+bra i emulatorn, men inte så bra i verkligheten. Därefter gick jag över til MicroPython. Där verkar det inte finnas en 
+emulator, men man kan köra kommandon interaktivt. Jag använde pdf-filen "micro:bit MicroPython in 60 minutes" 
+http://www.rareschool.com/workshops/microbitmicropython.pdf (gratis) för att komma igång. Boken använder Mu som redigerare. 
+Jag har testat den mesta hårdvaran: display, knappar, accelerometer, termometer, kompass, radio. Kompassen verkade vara lite 
+okänslig. 
+Radion fungerade bara om man använder versionen av Mu på hemsidan, och inte den som finns lätt installerbar i 
+Raspberry Pi -- detta skall dock fixas om några veckor. Radioapparaterna fungerar bra, men använder ett eget protokoll 
+och inte Bluetooth (BT)  när man kör MicroPython (MP), ty MP+BT kräver mer RAM än de 16 KB som micro:bit har (samma som 
+ABC 80 i original). Mu på hemsidan finns för Windows, Mac OS X och Linux x86. Jag beställde även ett startpaket för 
+micro:bit med elektronik, men det var tillfälligt slut.
  
  
 Det finns något som heter Web Bluetooth som skall fungera med MicroBit i Chrome för Mac, Linux, Chrome OS, Android:
@@ -183,6 +184,8 @@ speciellt långt. Att tvinga någon att använda (en delmängd av) sitt modersm�
 
 Vilket programspråk menar du att eleverna på t.ex. högstadiet skall använda? Vilken utvecklingsmiljö?
 
+Pyonkee, Scratch 1.4 för iPad:
+https://itunes.apple.com/us/app/pyonkee/id905012686?mt=8
 
 Nu finns MIT App Inventor 2 för utveckling av Android-appar på svenska: http://ai2.appinventor.mit.edu/?locale=sv 
 Diskutera översättningen på https://groups.google.com/forum/#!topic/coderdojo-malmo/IQVLJOA_TcI
