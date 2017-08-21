@@ -14,8 +14,9 @@ komplicerade.
 
 ## Programmeringssystem
 Det finns många olika system för programmering med barn i skolåldern och även på förskola, t.ex. ScratchJr, Scratch 2, MIT App Inventor,
-Micro:bit med Blockly och JavaScript, Micro:bit med Mu (MicroPython), Koda.nu (JavaScript i webbläsare), Arduino med Arduino (C++),
-Arduino med kompilerad Scrach, Lego-robotar med Scratch (egentligen Snap!) eller LabView, Code.org (Blockly) o.s.v.
+Micro:bit med Blockly och JavaScript, Micro:bit med Mu (MicroPython), Koda.nu (JavaScript i webbläsare), Kojo (Scala), 
+Arduino med Arduino (C++), Arduino med Scrach, Micro:bit med Scratch, Lego-robotar med kompilerad Scratch (egentligen Snap!) 
+eller LabView, Code.org (Blockly) o.s.v.
 
 ## Föreläsning som exempel på lösning: Scratch 2 på gymnasiet
 I enlighet med: [Diskussion i Matematikundervisning på Facebook](https://www.facebook.com/groups/matematikundervisning/permalink/1370508519676612/?match=b2xvZiBkYWhsLGRhaGwsb2xvZiw%3D).  
@@ -128,6 +129,9 @@ speciell version av Scratch 2 för Raspberry Pi som kan använda dess pinnar och
 
 ### Koppling till Internet?
 Ja, via ScratchX. Man kan t.ex. läsa Twitter och princip göra allt som en webbläsare kan göra om man skriver plugginner i JavaScript.
+
+### Preppad?
+Scratch kan användas offline och man kan ladda upp projekten till annan server.
 
 ### Pris?
 Gratis och Scratch 1.4 kan köras på Raspberry Pi Zero som kostar ca 150 kr med kablar, men utan laddare, minneskort, skärm,
