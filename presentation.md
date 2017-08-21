@@ -1,9 +1,9 @@
 # Kurs: Programmering för lärare F-9 i matematik och teknik
-Finns det många sökande kan man dela upp kursen i flera med olika stadier och ämnen.
+Finns det många sökande kan man dela upp kursen i flera -- med olika stadier och ämnen.
 
 ## Mål
 Det finns fler mål på kursen och detta är bara ett exempel: Att kunna motivera en kombination av hårdvara, programspråk och 
-utvecklingsmiljö (d.v.s. ett programmeringssystem) av dem som presenterats på kursen. Man behöver kunna motivera valt system
+utvecklingsmiljö (d.v.s. ett programmeringssystem/verktyg) av dem som presenterats på kursen. Man behöver kunna motivera valt system
 för programmering för elever och föräldrar eftersom vissa redan har favoritsystem.
 
 ## Examination
@@ -14,7 +14,7 @@ komplicerade.
 
 ## Programmeringssystem
 Det finns många olika system för programmering med barn i skolåldern och även på förskola, t.ex. ScratchJr, Scratch 2, MIT App Inventor,
-Micro:bit med Blockly och JavaScript, Mico:bit med Mu (MicroPython), Koda.nu (JavaScript i webbläsare), Arduino med Arduino (C++),
+Micro:bit med Blockly och JavaScript, Micro:bit med Mu (MicroPython), Koda.nu (JavaScript i webbläsare), Arduino med Arduino (C++),
 Arduino med kompilerad Scrach, Lego-robotar med Scratch (egentligen Snap!) eller LabView, Code.org (Blockly) o.s.v.
 
 ## Föreläsning som exempel på lösning: Scratch 2 på gymnasiet
@@ -50,7 +50,7 @@ lära sig. Man kan välja bland många naturliga språk. Man kan bara sätta iho
 syntaxfel. Man slipper skriva långa texter och memorera kommandon. Man kan enkelt ändra namn på variabler m.m. Det går inte att
 söka efter text. Undo med flera nivåer saknas. Man kan tyvärr inte stega sig igenom koden. 
 
-Det finns ett alternativt gränssnitt för att utveckla Scratch-kod som text: Tosh.
+Det finns ett alternativt gränssnitt för att utveckla Scratch-kod som text: [Tosh](http://tosh.tjvr.org/).
 
 ### Lätt att skapa roliga/relevanta animeringar?
 Ja, men det finns inte något automatiskt system för att skapa filmer med hjälp av enbildstagning. Man kan spela in 1 minut långa filmer
@@ -59,7 +59,7 @@ från Scratch 2. Man kan utveckla spelprogram som reagerar på tangentbordet, mu
 
 ### Kan verktyget lätt ge lämpliga matematiska utdata som diagram och tabeller?
 Man kan spara i listor och dessa kan exporteras (och importeras) från redigeringsläge. Dessa kan sedan plottas med andra program,
-t.ex. Excel. Man får skriva program för att rita diagram -- eller hitta färdiga bibliotek. Koordinatsystem är som i matematiken,
+t.ex. Excel. Man får skriva program för att rita diagram -- eller hitta färdiga kodbibliotek. Koordinatsystem är som i matematiken,
 men vinklarna är som på en kompass, vilket retar matematiker. Det finns bakgrunder som är koordinatsystem.
 
 ### Stödjer verktyget villkorssatser och iteration i form av loopar och/eller rekursion?
@@ -73,7 +73,7 @@ att lagra resultat.
 Ja, man kan skicka strängar som meddelanden och man kan ha strängar som argument till procedurer. Dock kan "skicka meddelande" inte
 returnera värden eller ta argument.
 
-### Stabilitet
+### Stabilt?
 Jo, det är stabilt och har ett stort utvecklarteam och flera miljoner användare över hela världen.
 
 ### Är verktyget interaktivt, d.v.s. kan man skriva kommandon på en kommandorad eller liknande och få ett svar?
@@ -89,9 +89,10 @@ hjälp och man kan kommentera projekt. Projekt kan få beröm och kan hamna på 
 Jo, det är väldigt populärt och det finns inbyggd hjälp och ett stort forum, samt böcker.
 
 ### Är verktyget är plattformsoberoende?
-Jo, man kör det i webbläsare med Flash. Den tidigare versionen, Scratch 1.4, finns även till iPad. Scratch 3 skall använda enbart
-JavaScript och klarar sig alltså utan Flash. Offline-versionen av Scratch 2 finns till Mac OS X, Linux, Windows. En speciell
-offline-version finns till Raspbian. Scratch 1.4 finns till Mac OS X, Linux, Windows och Raspbian.
+Jo, man kör det i webbläsare med Flash. Den tidigare versionen, Scratch 1.4, finns även 
+till [iPad](https://itunes.apple.com/us/app/pyonkee/id905012686?mt=8). Scratch 3 skall använda enbart JavaScript och klarar sig 
+alltså utan Flash. Offline-versionen av Scratch 2 finns till Mac OS X, Linux, Windows, samt en speciell
+offline-version, till Raspbian. Scratch 1.4 finns till Mac OS X, Linux, Windows och Raspbian.
 
 ### Användbart på högskola/arbetsliv?
 Tyvärr inte, men det finns ScratchX som gör att man kan använda Scratch 2 till vad som helst genom tillägg i webbläsaren.
