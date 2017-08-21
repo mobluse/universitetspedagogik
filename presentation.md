@@ -84,7 +84,8 @@ På sätt och vis. Man kan t.o.m. redigera program medan de kör och ändringarn
 ### Kan eleverna lätt kan dela kod med varandra och läraren?
 Jo, det finns klassrum och man kan remixa andras program. Jag har dock ej testat klassrummen. Det finns en ryggsäck i
 online-redigeraren som gör att man kan transportera kod inom och mellan projekt. Det finns ett community där man kan få 
-hjälp och man kan kommentera projekt. Projekt kan få beröm och kan hamna på första sidan, vilket är en stor ära.
+hjälp och man kan kommentera projekt. Projekt kan få beröm och kan hamna på första sidan, vilket är en stor ära: t.ex.
+[Björnes äventyr](https://scratch.mit.edu/projects/118793893/).
 
 ### Verktyget är rimligt vanligt, så att det finns mycket information om det på nätet.
 Jo, det är väldigt populärt och det finns inbyggd hjälp och ett stort forum, samt böcker.
@@ -96,9 +97,9 @@ alltså utan Flash. Offline-versionen av Scratch 2 finns till Mac OS X, Linux, W
 offline-version, till Raspbian. Scratch 1.4 finns till Mac OS X, Linux, Windows och Raspbian.
 
 ### Användbart på högskola/arbetsliv?
-Tyvärr inte, men det finns ScratchX som gör att man kan använda Scratch 2 till vad som helst genom tillägg i webbläsaren.
-I framtiden kommer kanske Scratch att användas på laboratorier för icke-professionella programmerare som ändå behöver utveckla
-program då och då.
+Tyvärr inte, men det finns [ScratchX](http://scratchx.org/) som gör att man kan använda Scratch 2 till vad som helst genom 
+tillägg i webbläsaren. I framtiden kommer kanske Scratch att användas på laboratorier för icke-professionella programmerare 
+som ändå behöver utveckla program då och då.
 
 ### Väl utvecklade paket som innehåller subrutiner för matematik/naturvetenskap?
 Inte som standard, men det går att utveckla. Dock är det inte lika lätt att importera bibliotek i Scratch som i t.ex. Python,
@@ -123,12 +124,13 @@ Ja, men inte multidimensionella eller listor med listor. Det finns många inbygg
 i Scratch 1.4 och Scratch 2. ScratchJr har inte listor.
 
 ### Koppling till hårdvara?
-Ja, via ScratchX kan man koppla till hårdvara, t.ex. Arduino och Micro:bit, eller talsyntes, eller 3D-skärm. Dock fungerar 
-inte allt med alla operativsystem. Det finns speciella versioner av Scratch 1.4 för Lego-robotar och Raspberry Pi. Det finns en
-speciell version av Scratch 2 för Raspberry Pi som kan använda dess pinnar och ett tillbehör som heter Sense HAT.
+Ja, via ScratchX kan man koppla till hårdvara, t.ex. [Micro:bit](https://u.cubeupload.com/EUHJcZ.png) och Arduino, eller 
+talsyntes, eller 3D-skärm. Dock fungerar inte allt med alla operativsystem. Det finns speciella versioner av Scratch 1.4 för 
+Lego-robotar och Raspberry Pi. Det finns en speciell version av Scratch 2 för Raspberry Pi som kan använda dess pinnar och 
+ett tillbehör som heter [Sense HAT](https://pbs.twimg.com/media/DHohcvAXgAAH2qv.jpg).
 
 ### Koppling till Internet?
-Ja, via ScratchX. Man kan t.ex. läsa Twitter och princip göra allt som en webbläsare kan göra om man skriver plugginner i JavaScript.
+Ja, via ScratchX. Man kan t.ex. läsa Twitter och princip göra allt som en webbläsare kan göra om man skriver plugginner i JavaScript: t.ex. [SpeakTweet](https://mobluse.github.io/scratchx/).
 
 ### Preppad?
 Scratch kan användas offline och man kan ladda upp projekten till annan server.
