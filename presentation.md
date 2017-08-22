@@ -91,9 +91,9 @@ hjälp och man kan kommentera projekt. Projekt kan få beröm och kan hamna på 
 Jo, det är väldigt populärt och det finns inbyggd hjälp och ett stort forum, samt böcker.
 
 ### Är verktyget är plattformsoberoende?
-Jo, man kör det i webbläsare med Flash. Den tidigare versionen, Scratch 1.4, finns även 
+Jo, man kör Scratch 2 i webbläsare med Flash. Den tidigare versionen, Scratch 1.4, var ett PC-program, men finns även 
 till [iPad](https://itunes.apple.com/us/app/pyonkee/id905012686?mt=8). Scratch 3 skall använda enbart JavaScript och klarar sig 
-alltså utan Flash. Offline-versionen av Scratch 2 finns till Mac OS X, Linux, Windows, samt en speciell
+alltså utan Flash i Webbläsaren. Offline-versionen av Scratch 2 finns till Mac OS X, Linux, Windows, samt en speciell
 offline-version, till Raspbian. Scratch 1.4 finns till Mac OS X, Linux, Windows och Raspbian.
 
 ### Användbart på högskola/arbetsliv?
@@ -101,8 +101,8 @@ Tyvärr inte, men det finns [ScratchX](http://scratchx.org/) som gör att man ka
 tillägg i webbläsaren. I framtiden kommer kanske Scratch att användas på laboratorier för icke-professionella programmerare 
 som ändå behöver utveckla program då och då.
 
-### Väl utvecklade paket som innehåller subrutiner för matematik/naturvetenskap?
-Inte som standard, men det går att utveckla. Dock är det inte lika lätt att importera bibliotek i Scratch som i t.ex. Python,
+### Väl utvecklade paket som innehåller funktioner för matematik/naturvetenskap?
+Inte som standard, men det går att utveckla. Dock är det inte lika lätt att importera kodbibliotek i Scratch som i t.ex. Python,
 ty man måste släpa in dem eller starta från ett mallprojekt.
 
 ### Strömförbrukning/Snabbhet?
