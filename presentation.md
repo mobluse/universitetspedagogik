@@ -87,7 +87,7 @@ online-redigeraren som gör att man kan transportera kod inom och mellan projekt
 hjälp och man kan kommentera projekt. Projekt kan få beröm och kan hamna på första sidan, vilket är en stor ära: t.ex.
 [Björnes äventyr](https://scratch.mit.edu/projects/118793893/).
 
-### Verktyget är rimligt vanligt, så att det finns mycket information om det på nätet.
+### Är verktyget rimligt vanligt? så att det finns mycket information om det på nätet
 Jo, det är väldigt populärt och det finns inbyggd hjälp och ett stort forum, samt böcker.
 
 ### Är verktyget är plattformsoberoende?
