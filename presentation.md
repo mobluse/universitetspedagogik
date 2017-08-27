@@ -1,5 +1,5 @@
 # Kurs: Programmering för lärare F-9 i matematik och teknik
-Jag påbörjar utvecklingen av en kurs i programmering för främst grundskollärare i matematik och teknik. Finns det många sökande kan man dela upp kursen i flera -- med olika stadier och ämnen. Man kan ha en gemensam programmeringsdel och sedan ha olika varianter för matematik- respektive tekniklärare. Vad som är möjligt och lämpligt att lära ut på olika stadier skiljer sig. Jag har själv undervisat årskurs 3-9 i trä- och metallslöjd och 7-9 i matematik, fysik, kemi, biologi, teknik och bild. Jag har även undervisat på gymnasiet i matematik, fysik och teknik, och på högskolan i programmering. Jag har varit aktiv i ideella organisationer som ger läxhjälp i t.ex. matematik och i en annan ideell organisation som undervisar barn i programmering.
+Jag påbörjar utvecklingen av en kurs i programmering för främst grundskollärare i matematik och teknik. Jag försöker då se till att bl.a. Högskoleförordningen, kapitel 6 § 15, om kursplaner, följs. Min ursprungliga målgrupp var redan verksamma och legitimerade lärare. Kursen är tänkt att vara på 7,5 hp (gamla 5 p) och gå på halvfart. Finns det många sökande kan man dela upp kursen i flera -- med olika stadier och ämnen. Man kan ha en gemensam programmeringsdel och sedan ha olika varianter för matematik- respektive tekniklärare. Vad som är möjligt och lämpligt att lära ut på olika stadier skiljer sig. Jag har själv undervisat årskurs 3-9 i trä- och metallslöjd och 7-9 i matematik, fysik, kemi, biologi, teknik och bild. Jag har även undervisat på gymnasiet i matematik, fysik och teknik, och på högskolan i programmering. Jag har varit aktiv i flera år i ideella organisationer som ger läxhjälp till grund- och gymnasieelever i t.ex. matematik (Röda korset och Mattecentrum), samt i en annan ideell organisation som undervisar barn i programmering på flera orter i världen: CoderDojo (finns ett stenkast från Lärarutbildningen, MAH). Jag har gått en kurs "Matematik för lärare" på Lunds universitet, och denna kurs "Programmeing för lärare" skulle vara liknande, men om programmering.
 
 Man kan stöta på barn som kan klara många övningar och kan skriva ganska avancerade program. Oftast har de föräldrar som kan programmering. Man kan även se barn som går igenom hur man löser programmeringsuppgifter på YouTube. De provar sig ofta fram och ser vad som fungerar.
 
@@ -20,7 +20,13 @@ Det finns en bra videoserie om Datavetenskap: [Crash Course Computer Science](ht
 Jag anser att kurser skall vara planerade tidsmässigt så att man inte får för stor arbetsbelastning helt plötsligt. Man kan ta reda
 på hur lång tid kursböckerna tar att läsa genom att hitta talböckerna, ty nästan alla kursböcker finns inlästa. Övriga texter kan
 man mäta tiden för genom att omvandla till ljudfiler. Videofilmer som ingår vet man tiden på. Kursmaterialet och uppgifter skall vara
-jämnt utspridda över kursen. Det finns t.ex. "Scratch 2.0 Sams Teach Yourself in 24 Hours" -- där tar varje kapitel med övningar 1 h.
+jämnt utspridda över kursen. Det finns t.ex. "Scratch 2.0 Sams Teach Yourself in 24 Hours" -- där tar varje kapitel med övningar 1 h,
+men jag har inte undersökt om den är lämplig som kursbok. 
+
+Jag har läst en hel del böcker om programmering och även barnböcker om programmering. Tänkbara kursböcker är "På äventyr med Raspberry Pi" av Carrie Anne Philbin, "Hjälp ditt barn med programmering" av Carol Vorderman, "Building Android Apps in Easy Steps" av Mike McGrath, "Android-apps uden programmering" av Kristian Langborg-Hansen. De två senare böckerna handlar om MIT App Inventor 2 och Blockly. Att den sista boken heter "utan programmering" beror på vissa påstår att
+blockprogrammering inte är riktig programmering, men det är programmering -- det är bara en annan sorts redigerare. Man skulle med
+fördel kunna använda Raspberry Pi (en billig $35-dator), men många skolor saknar idag skärmar. Dock kan boken "På äventyr med Raspberry Pi" ändå användas, ty de flesta av de programmeringssystem som presenteras finns även till andra datorer. Dock kan man för tekniklärarna
+låna ut Raspberry Pi:er och andra kortdatorer som Microbit och Arduino.
 
 ## Mål
 Det finns fler mål på kursen och detta är bara ett exempel: Att kunna motivera en kombination av hårdvara, programspråk och 
