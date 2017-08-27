@@ -1,5 +1,26 @@
 # Kurs: Programmering för lärare F-9 i matematik och teknik
-Finns det många sökande kan man dela upp kursen i flera -- med olika stadier och ämnen.
+Jag påbörjar utvecklingen av en kurs i programmering för främst grundskollärare i matematik och teknik. Finns det många sökande kan man dela upp kursen i flera -- med olika stadier och ämnen. Man kan ha en gemensam programmeringsdel och sedan ha olika varianter för matematik- respektive tekniklärare. Vad som är möjligt och lämpligt att lära ut på olika stadier skiljer sig. Jag har själv undervisat årskurs 3-9 i trä- och metallslöjd och 7-9 i matematik, fysik, kemi, biologi, teknik och bild. Jag har även undervisat på gymnasiet i matematik, fysik och teknik, och på högskolan i programmering. Jag har varit aktiv i ideella organisationer som ger läxhjälp i t.ex. matematik och i en annan ideell organisation som undervisar barn i programmering.
+
+Man kan stöta på barn som kan klara många övningar och kan skriva ganska avancerade program. Oftast har de föräldrar som kan programmering. Man kan även se barn som går igenom hur man löser programmeringsuppgifter på YouTube. De provar sig ofta fram och ser vad som fungerar.
+
+När man undervisar hela klasser måste man använda en annan strategi än om man undervisar barn enskilt, ty man har inte möjlighet att svara på alla frågor som kan uppstå. Man behöver i början något system som ger uppgifter på en lagom nivå och som rättar automatiskt. Code.org har ett sådant system och de har olika kurser. Lärarna borde gå igenom deras [accelererade kurs på 20 h](https://studio.code.org/s/20-hour) -- den är även bra för elever och finns översatt till många språk. Då lär man sig ett blockprogramspråk, Blockly, och gör olika uppgifter som att rita olika saker med program eller konstruera program som styr en figur genom en labyrint. Datorn kan se om ens program ritar rätt och kommer fram och ser om man använder fler block än nödvändigt. Man kan lära sig om villkor, iterationer (d.v.s. upprepningar), procedurer och variabler med denna 20 h-kurs. Dock lär man sig inte om listor. Exempel på en lista är en inköpslista och sedan finns det procedurer och funktioner för att lägga till och ta bort elementen (d.v.s. varor i fallet med inköpslista). En viktig del i denna automatiserade kurs är att man får hjälp av programmeringslärare medan man gör dessa uppgifter. För att examinera att man kan 20 h-kursen på Code.org kan man göra liknande uppgifter live så att man ser att studenterna klarar att lösa uppgifterna själva, d.v.s. en sorts muntlig tentamen eller praktiskt prov.
+
+Efter detta kan man lära sig ett snarlikt system, Scratch 2, för att utveckla program helt fritt. Man kan även lära sig MIT App Inventor 2 för att utveckla mobilappar med hjälp av Blockly. Senare kan det vara intressant att lära sig textprogramspråk t.ex. Python eller JavaScript. Att skriva textprogram som gör lika avancerade saker som de barn kan skriva i Scratch är dock ganska svårt. Scratch kallas ibland ett superhögnivåspråk, men det gäller bara vissa saker som har med bild och ljud att göra -- resten är primitivt just för att barn skall lära sig logik och programmering.
+
+Scratch har en unik fördel som inget annat system för unga programmerare har: det är lättare att skapa nya processer (ä.k. trådar) än att inte göra det. Man kan t.ex. skriva program som simulerar myror, trafik och gas, där varje aktör (myra, fordon, molekyl) kör egna processer. Redan ScratchJr för F-7 har möjlighet till flera processer och att skicka meddelanden mellan dem. ScratchJr har många begränsningar och saknar listor, vilket gör att man vill gå över till Scratch 1.4 eller Scratch 2 när barnen kan läsa lite. Jag var testare av ScratchJr när det utvecklades.
+
+Kunskaper i programmeringssystemen görs med inlämningsuppgifter som man även har muntligt förhör på. Dels kan man utveckla varianter av klassiska datorspel som Pong, Snake och Tetris, dels program som eleverna kan köra för att lära sig matematik & teknik. I tekniken bör man kombinera programmering med elektronik för att göra robotar och olika apparater. Man kan i viss mån göra apparater med Scratch och vanliga laptoppar, t.ex. tidtagare som mäter när man passerar olika datorer, ty man kan märka att något rör sig framför kamerorna.
+
+Både Scratch.MIT.edu och Code.org har möjlighet att samla elevernas resultat i en lärarportal.
+
+Innehållet i kursen skall vara sådant att lärarna klarar av att undervisa i den programmering som ingår i kursplanerna för matematik och teknik för grundskolan. Jag har läst igenom dessa ändringar i kursplanerna på Skolverket. Förutom att kunna undervisa så kan lärarna själva använda programmering för att lösa uppgifter i sitt arbete. Jag har t.ex. själv utvecklat program för massutskick av e-post till elever och föräldrar där varje e-brev har ett unikt innehåll som hämtas från en databas. Man kan utveckla motsvarande system för SMS. Nu finns det troligen färdiga system man kan köpa, men de gör kanske inte precis det man vill. Man kan också utveckla program för att öva in namn på eleverna och för att hjälpa till med undervisningen.
+
+Det finns en bra videoserie om Datavetenskap: [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo). Varje video är ca 10 min. Dock tar den inte upp programmering mer i detalj.
+
+Jag anser att kurser skall vara planerade tidsmässigt så att man inte får för stor arbetsbelastning helt plötsligt. Man kan ta reda
+på hur lång tid kursböckerna tar att läsa genom att hitta talböckerna, ty nästan alla kursböcker finns inlästa. Övriga texter kan
+man mäta tiden för genom att omvandla till ljudfiler. Videofilmer som ingår vet man tiden på. Kursmaterialet och uppgifter skall vara
+jämnt utspridda över kursen. Det finns t.ex. "Scratch 2.0 Sams Teach Yourself in 24 Hours" -- där tar varje kapitel med övningar 1 h.
 
 ## Mål
 Det finns fler mål på kursen och detta är bara ett exempel: Att kunna motivera en kombination av hårdvara, programspråk och 
@@ -13,12 +34,12 @@ det finns bara underkänt och godkänt som betyg, så det gör inte så mycket a
 komplicerade.
 
 ## Programmeringssystem
-Det finns många olika system för programmering med barn i skolåldern och även på förskola, t.ex. ScratchJr, Scratch 2, MIT App Inventor,
-Micro:bit med Blockly och JavaScript, Micro:bit med Mu (MicroPython), Koda.nu (JavaScript i webbläsare), Kojo (Scala), 
-Arduino med Arduino (C++), Arduino med Scrach, Micro:bit med Scratch, Lego-robotar med kompilerad Scratch (egentligen Snap!) 
-eller LabView, Code.org (Blockly) o.s.v.
+Det finns många olika system för programmering med barn i skolåldern och även på förskola, t.ex. ScratchJr, Scratch 2,
+MIT App Inventor (Blockly), Pocker Code (Catrobat), Micro:bit (Blockly och JavaScript), Micro:bit med Mu (MicroPython), 
+Koda.nu (JavaScript i webbläsare), Kojo (Scala),  Arduino med Arduino (C++), Arduino med Scrach, Micro:bit med Scratch, 
+Lego-robotar med kompilerad Scratch (egentligen Snap!) eller LabView, Code.org (Blockly) o.s.v.
 
-## Föreläsning som exempel på lösning: Scratch 2 på gymnasiet
+## Bilaga: Föreläsning som exempel på lösning: Scratch 2 på gymnasiet
 I enlighet med: [Diskussion i Matematikundervisning på Facebook](https://www.facebook.com/groups/matematikundervisning/permalink/1370508519676612/?match=b2xvZiBkYWhsLGRhaGwsb2xvZiw%3D).  
 Trots att detta är en kurs för grundskollärare kan det vara intressant att utreda om ett system avsett för yngre ungdomar går
 att använda på gymnasienivå.
