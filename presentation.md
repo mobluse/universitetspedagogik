@@ -36,10 +36,6 @@ Det är bara att gå in på http://scratch.mit.edu/ i webbläsaren (om den har F
 en offline-version, men det är lite krångligare, ty Scratch 2 använder Adobe Air -- dock har förhoppningsvis nätverksteknikerna
 redan installerat allt.
 
-### Körbart i webbläsare?
-Jo, och om man bara vill köra program behöver man inte ha Flash, ty det finns ett system för enbart körning som använder 
-enbart JavaScript: Phosphorus. Det finns ett liknande system för körning i mobiler och surfplattor: Sulfurous.
-
 ### Går det fort att komma igång med verktyget?
 Jo, det startar snabbt och är lätt för nybörjare i och med att man kan se kategorier och tillgängliga block i dem. Det har inbyggd
 grafikeditor för bitmap- och vektor-grafik, samt ljudredigerare. Det finns inbyggda bibliotek med bakgrunder, sprajtar, ljudeffekter
@@ -77,6 +73,11 @@ returnera värden eller ta argument.
 ### Stabilt?
 Jo, det är stabilt och har ett stort utvecklarteam och flera miljoner användare över hela världen.
 
+### Skyddat privatliv?
+Jo, man kan använda mikrofonen i Scratch-program, men den kan bara registrera ljudnivån och ej frekvenser. Man kan använda kameran
+för att visa bilder på skärmen, men man kan inte läsa av skärmen förutom med en extremt långsam metod (matcha exakt färg på pixel)
+som skulle ta många timmar. Scratch och dess officiella community är konstruerat för att vara tryggt för barn.
+
 ### Är verktyget interaktivt, d.v.s. kan man skriva kommandon på en kommandorad eller liknande och få ett svar?
 #### Se: [REPL](https://en.m.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
 På sätt och vis. Man kan t.o.m. redigera program medan de kör och ändringarna slår igenom direkt.
@@ -91,10 +92,14 @@ hjälp och man kan kommentera projekt. Projekt kan få beröm och kan hamna på 
 Jo, det är väldigt populärt och det finns inbyggd hjälp och ett stort forum, samt böcker.
 
 ### Är verktyget är plattformsoberoende?
-Jo, man kör Scratch 2 i webbläsare med Flash. Den tidigare versionen, Scratch 1.4, var ett PC-program, men finns även 
+Jo, man kör Scratch 2 i webbläsare med Flash. Den tidigare versionen, Scratch 1.4, var ett desktopprogram, men finns även 
 till [iPad](https://itunes.apple.com/us/app/pyonkee/id905012686?mt=8). Scratch 3 skall använda enbart JavaScript och klarar sig 
 alltså utan Flash i Webbläsaren. Offline-versionen av Scratch 2 finns till Mac OS X, Linux, Windows, samt en speciell
-offline-version, till Raspbian. Scratch 1.4 finns till Mac OS X, Linux, Windows och Raspbian.
+offline-version, till Raspbian på Raspberry Pi 2-3. Scratch 1.4 finns till Mac OS X, Linux, Windows och Raspbian på Raspberry Pi 0-3.
+
+### Körbart i webbläsare?
+Jo, och om man bara vill köra program behöver man inte ha Flash, ty det finns ett system för enbart körning som använder 
+enbart JavaScript: Phosphorus. Det finns ett liknande system för körning i mobiler och surfplattor: Sulfurous.
 
 ### Användbart på högskola/arbetsliv?
 Tyvärr inte, men det finns [ScratchX](http://scratchx.org/) som gör att man kan använda Scratch 2 till vad som helst genom 
