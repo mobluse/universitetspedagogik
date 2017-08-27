@@ -1,4 +1,7 @@
 # Kurs: Programmering för lärare F-9 i matematik och teknik
+#### Uppgift på Att vara lärare i högre utbildning
+#### av Mikael O. Bonnier
+
 Jag påbörjar utvecklingen av en kurs i programmering för främst grundskollärare i matematik och teknik. Jag försöker då se till att
 bl.a. Högskoleförordningen, kapitel 6 § 15, om kursplaner, följs. Min ursprungliga målgrupp var redan verksamma och legitimerade lärare,
 men man kan även tänka sig denna kurs för blivande lärare. Kursen är tänkt att vara på 7,5 hp och gå på halvfart. Finns det
