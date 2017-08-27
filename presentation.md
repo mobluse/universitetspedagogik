@@ -1,5 +1,5 @@
 # Kurs: Programmering för lärare F-9 i matematik och teknik
-#### Uppgift på Att vara lärare i högre utbildning
+#### Uppgift på kursen *Att vara lärare i högre utbildning*
 #### av Mikael O. Bonnier
 
 Jag påbörjar utvecklingen av en kurs i programmering för främst grundskollärare i matematik och teknik. Jag försöker då se till att
