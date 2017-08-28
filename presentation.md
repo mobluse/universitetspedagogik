@@ -98,7 +98,7 @@ komplicerade.
 ## Programmeringssystem
 Det finns många olika system för programmering med barn i skolåldern och även på förskola, t.ex. ScratchJr, Scratch 2,
 MIT App Inventor (Blockly), Pocker Code (Catrobat), Micro:bit (Blockly och JavaScript), Micro:bit med Mu (MicroPython), 
-Koda.nu (JavaScript i webbläsare), Kojo (Scala),  Arduino med Arduino (C++), Arduino med Scrach, Micro:bit med Scratch, 
+Koda.nu (JavaScript i webbläsare), Kojo (Scala),  Arduino med Arduino (C++), Arduino med Scratch, Micro:bit med Scratch, 
 Lego-robotar med kompilerad Scratch (egentligen Snap!) eller LabView, Code.org (Blockly) o.s.v.
 
 ## Bilaga: Föreläsning som exempel på lösning: Scratch 2 på gymnasiet
