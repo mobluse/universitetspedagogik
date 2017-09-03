@@ -46,14 +46,15 @@ barn skall lära sig logik och programmering. Scratch bygger på en lång tradit
 
 Scratch har en unik fördel som inget annat system för unga programmerare har: det är lättare att skapa nya processer (ä.k. trådar) än
 att inte göra det. Man kan t.ex. skriva program som simulerar myror, trafik och gas, där varje aktör (myra, fordon, molekyl) kör egna 
-processer. Redan ScratchJr för F-7 har möjlighet till flera processer och att skicka meddelanden mellan dem. ScratchJr har många 
+processer. Redan ScratchJr för F-1 har möjlighet till flera processer och att skicka meddelanden mellan dem. ScratchJr har många 
 begränsningar och saknar listor, vilket gör att man vill gå över till Scratch 1.4 eller Scratch 2 när barnen kan läsa lite. Jag var 
 testare av ScratchJr när det utvecklades.
 
 Kunskaper i programmeringssystemen görs med inlämningsuppgifter som man även har muntligt förhör på. Dels kan man utveckla varianter av 
 klassiska datorspel som Pong, Snake och Tetris, dels program som eleverna kan köra för att lära sig matematik & teknik. I tekniken bör 
 man kombinera programmering med elektronik för att göra robotar och olika apparater. Man kan i viss mån göra apparater med Scratch och 
-vanliga laptoppar, t.ex. tidtagare som mäter när man passerar olika datorer, ty man kan märka att något rör sig framför kamerorna.
+vanliga laptoppar, t.ex. tidtagare som mäter när man passerar olika datorer, ty man kan märka att något rör sig framför kamerorna, 
+och man kan kommunicera via Internet med s.k. molnvariabler.
 
 Både Scratch.MIT.edu och Code.org har möjlighet att samla elevernas resultat i en lärarportal.
 
@@ -104,9 +105,9 @@ Lego-robotar med kompilerad Scratch (egentligen Snap!) eller LabView, Code.org (
 ## Bilaga: Föreläsning som exempel på lösning: Scratch 2 på gymnasiet
 I enlighet med: [Diskussion i gruppen Matematikundervisning på Facebook](https://www.facebook.com/groups/matematikundervisning/permalink/1370508519676612/?match=b2xvZiBkYWhsLGRhaGwsb2xvZiw%3D).  
 Det var inte i frågeform där. Jag har lagt till många frågor och Scratch 2 har aldrig diskuterats som programmeringssystem på
-gymnasiet där. Trots att detta är en kurs för grundskollärare kan det vara intressant att utreda om ett system avsett för yngre 
-ungdomar går att använda på gymnasienivå. Vissa punkter nedan måste diskuteras senare i kursen efter att studenterna lärt
-sig dessa begrepp.
+gymnasiet där. Trots att detta är en kurs för grundskollärare kan det vara intressant att utreda om ett system avsett för 
+barn och yngre ungdomar går att använda på gymnasienivå. Vissa punkter nedan måste diskuteras senare i kursen efter att studenterna
+lärt sig dessa begrepp.
 
 ### Duger verktyget för alla gymnasiets kurser?
 Scratch 2 duger kanske inte för alla kurser i programmering, ty man kan inte namnge data detaljerat. Scratch har inte bitvisa operatorer
@@ -165,7 +166,8 @@ som skulle ta många timmar. Scratch och dess officiella community är konstruer
 
 ### Är verktyget interaktivt, d.v.s. kan man skriva kommandon på en kommandorad eller liknande och få ett svar?
 #### Se: [REPL](https://en.m.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
-På sätt och vis. Man kan t.o.m. redigera program medan de kör och ändringarna slår igenom direkt.
+På sätt och vis. Man kan t.o.m. redigera program medan de kör och ändringarna slår igenom direkt. Man kan klistra in Scratch-kod m.h.a. 
+ryggsäcken, men man kan inte använda klistra in (Ctrl+V) från andra program.
 
 ### Kan eleverna lätt kan dela kod med varandra och läraren?
 Jo, det finns klassrum och man kan remixa andras program. Jag har dock ej testat klassrummen. Det finns en ryggsäck i
@@ -177,8 +179,8 @@ hjälp och man kan kommentera projekt. Projekt kan få beröm och kan hamna på 
 Jo, det är väldigt populärt och det finns inbyggd hjälp och ett stort forum, samt böcker.
 
 ### Är verktyget är plattformsoberoende?
-Jo, man kör Scratch 2 i webbläsare med Flash. Den tidigare versionen, Scratch 1.4, var ett desktopprogram, men finns även 
-till [iPad](https://itunes.apple.com/us/app/pyonkee/id905012686?mt=8). Scratch 3 skall använda enbart JavaScript och klarar sig 
+Jo, man kör Scratch 2 i webbläsare med Flash. Den tidigare versionen, Scratch 1.4, är ett desktopprogram, men finns även 
+som app till [iPad](https://itunes.apple.com/us/app/pyonkee/id905012686?mt=8). Scratch 3 skall använda enbart JavaScript och klarar sig 
 alltså utan Flash i Webbläsaren. Offline-versionen av Scratch 2 finns till Mac OS X, Linux, Windows, samt en speciell
 offline-version, till Raspbian på Raspberry Pi 2-3. Scratch 1.4 finns till Mac OS X, Linux, Windows och Raspbian på Raspberry Pi 0-3.
 
