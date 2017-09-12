@@ -5,26 +5,27 @@
 Jag påbörjar utvecklingen av en kurs i programmering för främst grundskollärare i matematik och teknik. Jag försöker då se till att
 bl.a. Högskoleförordningen, kapitel 6 § 15, om kursplaner, följs. Min ursprungliga målgrupp var redan verksamma och legitimerade lärare,
 men man kan även tänka sig denna kurs för blivande lärare. Kursen är tänkt att vara på 7,5 hp och gå på halvfart. Finns det
-många sökande kan man dela upp kursen i flera -- med olika stadier och ämnen. Man kan ha en gemensam programmeringsdel och sedan ha
+många sökande kan man dela upp kursen i flera -- för olika stadier och ämnen. Man kan ha en gemensam programmeringsdel och sedan ha
 olika varianter för matematik- respektive tekniklärare. Vad som är möjligt och lämpligt att lära ut på olika stadier skiljer sig.
 
 Jag har själv undervisat årskurs 3-9 i trä- och metallslöjd och 7-9 i matematik, fysik, kemi, biologi, teknik och bild. Jag har även
 undervisat på gymnasiet i matematik, fysik och teknik, och på högskolan i programmering. Jag har varit aktiv i flera år i ideella
 organisationer som ger läxhjälp till grund- och gymnasieelever i t.ex. matematik (Röda korset och Mattecentrum), samt i en annan ideell
 organisation som undervisar barn i programmering på flera orter i världen: CoderDojo (finns ett stenkast från Lärarutbildningen, MAH).
-Jag har gått en kurs "Matematik för lärare" på Lunds universitet, och denna kurs "Programmering för lärare" skulle vara liknande, men om
-programmering.
+Jag har gått en kurs "Matematik för lärare" vid Lunds universitet, och denna kurs "Programmering för lärare" skulle vara liknande,
+men om programmering.
 
 Man kan stöta på barn som kan klara många övningar och kan skriva ganska avancerade program. Oftast har de föräldrar som kan
 programmering. Man kan även se barn som går igenom hur man löser programmeringsuppgifter på YouTube. De provar sig ofta fram och ser vad
 som fungerar.
 
-Numera använder man ofta blockprogrammering för barn. Det kräver bara att man kan läsa lite text på blocken eller att man känner igen
-dem på form, färg eller symboler. Man behöver bara skriva in lite text för egna namn och för sådant programmet skall skriva ut.
-Man kan bara sätta ihop blocken till körbara program och slipper många småfel. De flesta programspråk för vuxna använder ovanliga
-specialtecken: ^~!#&\ o.s.v. Man ser vilka block man kan välja och behöver inte memorera ord. Blockprogramspråken har oftast texten
-på många valbara mänskliga språk, vilket är en fördel nu när många har annat modersmål än svenska. Man kan även ganska lätt göra egna
-översättningar. Orden i programspråk för vuxna är alltid på engelska, eller kryptiska symboler i något enstaka fall.
+Numera använder man ofta blockprogrammering för att lära barn programmering. Det kräver bara att man kan läsa lite text på blocken 
+eller att man känner igen dem på form, färg eller symboler. Man behöver bara skriva in lite text för egna namn och för sådant 
+programmet skall skriva ut. Man kan bara sätta ihop blocken till körbara program och slipper många småfel. De flesta programspråk 
+för vuxna använder ovanliga specialtecken: ^~!#&\ o.s.v. Man ser vilka block man kan välja och behöver inte memorera ord.
+Blockprogramspråken har oftast texten på många valbara mänskliga språk, vilket är en fördel nu när många har annat modersmål än 
+svenska. Man kan även ganska lätt göra egna översättningar. Orden i programspråk för vuxna är alltid på engelska, eller kryptiska
+symboler i något enstaka fall.
 
 När man undervisar hela klasser måste man använda en annan strategi än om man undervisar barn enskilt, ty man har inte möjlighet att
 svara på alla frågor som kan uppstå. Man behöver i början något system som ger uppgifter på en lagom nivå och som rättar automatiskt.
@@ -34,12 +35,12 @@ Då lär man sig ett blockprogramspråk, Blockly, och gör olika uppgifter som a
 som styr en figur genom en labyrint. Datorn kan se om ens program ritar rätt eller kommer fram och ser om man använder fler block
 än nödvändigt. Man kan lära sig om villkor, iterationer (d.v.s. upprepningar), procedurer och variabler med denna 20 h-kurs. Dock
 lär man sig inte om listor. Exempel på en lista är en inköpslista och sedan finns det procedurer och funktioner för att lägga till
-och ta bort elementen (d.v.s. varor i fallet med inköpslista). En viktig del i denna automatiserade kurs är att man får hjälp
-av programmeringslärare medan man gör dessa uppgifter. För att examinera att man kan 20 h-kursen på Code.org kan man göra liknande
+och ta bort elementen (d.v.s. varor i fallet med inköpslista). En viktig del i detta delvis automatiserade kursavsnitt är att man får
+hjälp av programmeringslärare medan man gör dessa uppgifter. För att examinera att man kan 20 h-kursen på Code.org kan man göra liknande
 uppgifter live så att man ser att studenterna klarar att lösa uppgifterna själva, d.v.s. en sorts muntlig tentamen eller praktiskt prov.
 
 Efter detta kan man lära sig ett snarlikt system, Scratch 2, för att utveckla program helt fritt. Man kan även lära sig MIT App Inventor
-2 för att utveckla mobilappar med hjälp av Blockly. Senare kan det vara intressant att lära sig textprogramspråk t.ex. Python eller
+2 för att utveckla mobilappar med hjälp av Blockly. Senare kan det vara intressant att lära sig textprogramspråk: t.ex. Python eller
 JavaScript. Att skriva textprogram som gör lika avancerade saker som de barn kan skriva i Scratch är dock ganska svårt. Scratch kallas
 ibland ett superhögnivåspråk, men det gäller bara vissa saker som har med bild och ljud att göra -- resten är primitivt, just för att
 barn skall lära sig logik och programmering. Scratch bygger på en lång tradition vid MIT som började med Seymour Papert, som i sin tur är influerad av Piaget. Det är Mitchel Resnick som är huvudansvarig för Scratch.
@@ -61,9 +62,9 @@ Både Scratch.MIT.edu och Code.org har möjlighet att samla elevernas resultat i
 Innehållet i kursen skall vara sådant att lärarna klarar av att undervisa i den programmering som ingår i kursplanerna för matematik och 
 teknik för grundskolan. Jag har läst igenom dessa ändringar i kursplanerna på Skolverket. Förutom att kunna undervisa så kan lärarna 
 själva använda programmering för att lösa uppgifter i sitt arbete. Jag har t.ex. själv utvecklat program för massutskick av e-post till 
-elever och föräldrar där varje e-brev har ett unikt innehåll som hämtas från en databas. Man kan utveckla motsvarande system för SMS. Nu 
-finns det troligen färdiga system man kan köpa, men de gör kanske inte precis det man vill. Man kan också utveckla program för att öva 
-in namn på eleverna och för att hjälpa till med undervisningen.
+elever och föräldrar där varje e-brev har ett delvis unikt innehåll som hämtas från en databas. Man kan utveckla motsvarande system
+för SMS. Nu finns det troligen färdiga system man kan köpa, men de gör kanske inte precis det man vill. Man kan också utveckla program
+för att öva in namn på eleverna och för att hjälpa till med undervisningen.
 
 Det finns en bra videoserie om Datavetenskap:
 [Crash Course Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo).
@@ -71,9 +72,9 @@ Varje video är ca 10 min. Dock tar den inte upp programmering mer i detalj.
 
 Jag anser att kurser skall vara planerade tidsmässigt så att man inte får för stor arbetsbelastning helt plötsligt. Man kan ta reda
 på hur lång tid kursböckerna tar att läsa genom att hitta talböckerna, ty nästan alla kursböcker finns inlästa. Övriga texter kan
-man mäta tiden för genom att omvandla till ljudfiler. Videofilmer som ingår vet man tiden på. Kursmaterialet och uppgifter skall vara
-jämnt utspridda över kursen. Det finns t.ex. "Scratch 2.0 Sams Teach Yourself in 24 Hours" -- där tar varje kapitel med övningar 1 h,
-men jag har inte undersökt om den är lämplig som kursbok. 
+man mäta tiden för genom att omvandla dem till ljudfiler. Videofilmer som ingår vet man tiden på. Kursmaterialet och uppgifter skall
+vara jämnt utspridda över kursen. Det finns t.ex. "Scratch 2.0 Sams Teach Yourself in 24 Hours" -- där tar varje kapitel med övningar
+1 h, men jag har inte undersökt om den är lämplig som kursbok. 
 
 Jag har läst en hel del böcker om programmering och även barnböcker om programmering. Tänkbara kursböcker är "På äventyr med Raspberry 
 Pi" av Carrie Anne Philbin, "Hjälp ditt barn med programmering" av Carol Vorderman, "Building Android Apps in Easy Steps" av Mike 
@@ -98,7 +99,7 @@ komplicerade.
 
 ## Programmeringssystem
 Det finns många olika system för programmering med barn i skolåldern och även på förskola, t.ex. ScratchJr, Scratch 2,
-MIT App Inventor (Blockly), Pocker Code (Catrobat), Micro:bit (Blockly och JavaScript), Micro:bit med Mu (MicroPython), 
+MIT App Inventor (Blockly), Pocket Code (Catrobat), Micro:bit (Blockly och JavaScript), Micro:bit med Mu (MicroPython), 
 Koda.nu (JavaScript i webbläsare), Kojo (Scala),  Arduino med Arduino (C++), Arduino med Scratch, Micro:bit med Scratch, 
 Lego-robotar med kompilerad Scratch (egentligen Snap!) eller LabView, Code.org (Blockly) o.s.v.
 
@@ -109,7 +110,7 @@ gymnasiet där. Trots att detta är en kurs för grundskollärare kan det vara i
 barn och yngre ungdomar går att använda på gymnasienivå. Vissa punkter nedan måste diskuteras senare i kursen efter att studenterna
 lärt sig dessa begrepp.
 
-### Duger verktyget för alla gymnasiets kurser?
+### Duger verktyget för alla kurser på gymnasiet?
 Scratch 2 duger kanske inte för alla kurser i programmering, ty man kan inte namnge data detaljerat. Scratch har inte bitvisa operatorer
 (men jag och andra har utvecklat sådana med hjälp av flyttalsfunktionerna). Vissa har implementerat emulatorer för processorer
 och gamla spelkonsoler, t.ex. CHIP-8, samt interpreterande och kompilerade programspråk, t.ex. LISP respektive FORTH -- det senare
@@ -140,7 +141,7 @@ Ja, men det finns inte något automatiskt system för att skapa filmer med hjäl
 från Scratch 2. Man kan utveckla spelprogram som reagerar på tangentbordet, musen, mikrofonen (ljudnivå) och kameran och man kan
 ändra bild och ljud direkt. Det finns både musikinstrument och ljudeffekter.
 
-### Kan verktyget lätt ge lämpliga matematiska utdata som diagram och tabeller?
+### Kan verktyget lätt skapa diagram och tabeller?
 Man kan spara i listor och dessa kan exporteras (och importeras) från redigeringsläge. Dessa kan sedan plottas med andra program,
 t.ex. Excel. Man får skriva program för att rita diagram -- eller hitta färdiga kodbibliotek. Koordinatsystem är som i matematiken,
 men vinklarna är som på en kompass, vilket retar matematiker. Det finns bakgrunder som är koordinatsystem.
@@ -162,12 +163,13 @@ Jo, det är stabilt och har ett stort utvecklarteam och flera miljoner användar
 ### Skyddat privatliv?
 Jo, man kan använda mikrofonen i Scratch-program, men den kan bara registrera ljudnivån och ej frekvenser. Man kan använda kameran
 för att visa bilder på skärmen, men man kan inte läsa av skärmen förutom med en extremt långsam metod (matcha exakt färg på pixel)
-som skulle ta många timmar. Scratch och dess officiella community är konstruerat för att vara tryggt för barn.
+som skulle ta många timmar. Scratch och dess officiella community är konstruerat för att vara tryggt för barn. Det är t.ex. väldigt
+svårt att mobba någon utan att bli avstängd, ty det finns inga dolda kommunikationssätt.
 
 ### Är verktyget interaktivt, d.v.s. kan man skriva kommandon på en kommandorad eller liknande och få ett svar?
 #### Se: [REPL](https://en.m.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
 På sätt och vis. Man kan t.o.m. redigera program medan de kör och ändringarna slår igenom direkt. Man kan klistra in Scratch-kod m.h.a. 
-ryggsäcken, men man kan inte använda klistra in (Ctrl+V) från andra program.
+ryggsäcken, men man kan inte använda klistra in (Ctrl+V) för att klistar in Scratch-kod från andra program.
 
 ### Kan eleverna lätt kan dela kod med varandra och läraren?
 Jo, det finns klassrum och man kan remixa andras program. Jag har dock ej testat klassrummen. Det finns en ryggsäck i
@@ -176,7 +178,7 @@ hjälp och man kan kommentera projekt. Projekt kan få beröm och kan hamna på 
 [Björnes äventyr](https://scratch.mit.edu/projects/118793893/).
 
 ### Är verktyget rimligt vanligt? så att det finns mycket information om det på nätet
-Jo, det är väldigt populärt och det finns inbyggd hjälp och ett stort forum, samt böcker.
+Jo, det är väldigt populärt och det finns inbyggd hjälp och ett stort forum och wiki, samt artiklar och böcker.
 
 ### Är verktyget är plattformsoberoende?
 Jo, man kör Scratch 2 i webbläsare med Flash. Den tidigare versionen, Scratch 1.4, är ett desktopprogram, men finns även 
@@ -202,10 +204,11 @@ Det är ett tolkat språk och alltså ganska långsamt -- dock finns en turbo-mo
 Phosphorus som enbart kräver JavaScript och som är mycket snabbare.
 
 ### Öppen källkod?
-Ja, och gäller Scratch 3, Scratch 2, Scratch 1.4, ScratchJr.
+Ja, och gäller Scratch 3, Scratch 2, Scratch 1.4, ScratchJr. Att det är öppen källkod är en fördel eftersom det är mindre risk att det
+försvinner eller plötsligt blir dyrt att använda.
 
 ### Flera processer?
-Ja, och det är mycket lätt att skapa nya processer och för barn är det naturligt att skapa processer.
+Ja, och det är mycket lätt att skapa nya processer och för barn är det naturligt att skapa många processer.
 
 ### Flera objekt?
 Jo, de kallas sprajtar. De är dock inte lika generella som objekt i t.ex. Java eller C++. Sprajtarna kan dock klonas i Scratch 2,
