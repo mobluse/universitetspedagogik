@@ -34,10 +34,12 @@ Code.org har ett sådant system och de har olika kurser. Lärarna borde gå igen
 Då lär man sig ett blockprogramspråk, Blockly, och gör olika uppgifter som att rita olika saker med program eller konstruera program 
 som styr en figur genom en labyrint. Datorn kan se om ens program ritar rätt eller kommer fram och ser om man använder fler block
 än nödvändigt. Man kan lära sig om villkor, iterationer (d.v.s. upprepningar), procedurer och variabler med denna 20 h-kurs. Dock
-lär man sig inte om listor. Exempel på en lista är en inköpslista och sedan finns det procedurer och funktioner för att lägga till
-och ta bort elementen (d.v.s. varor i fallet med inköpslista). En viktig del i detta delvis automatiserade kursavsnitt är att man får
-hjälp av programmeringslärare medan man gör dessa uppgifter. För att examinera att man kan 20 h-kursen på Code.org kan man göra liknande
-uppgifter live så att man ser att studenterna klarar att lösa uppgifterna själva, d.v.s. en sorts muntlig tentamen eller praktiskt prov.
+lär man sig inte om stränghantering och listor. Texter i datorer kallas sedan länge strängar -- det syftar möjligen på en tråd med 
+pärlor, vilka motsvarar bokstäverna. Exempel på en lista är en inköpslista och sedan finns det procedurer och funktioner för att
+lägga till och ta bort elementen (d.v.s. varor i fallet med inköpslista). En viktig del i detta delvis automatiserade kursavsnitt är 
+att man får hjälp av programmeringslärare medan man gör dessa uppgifter. För att examinera att studenterna kan 20 h-kursen på 
+Code.org kan de göra liknande uppgifter live så att man ser att studenterna klarar att lösa uppgifterna själva, d.v.s. en sorts 
+muntlig tentamen eller praktiskt prov.
 
 Efter detta kan man lära sig ett snarlikt system, Scratch 2, för att utveckla program helt fritt. Man kan även lära sig MIT App Inventor
 2 för att utveckla mobilappar med hjälp av Blockly. Senare kan det vara intressant att lära sig textprogramspråk: t.ex. Python eller
@@ -174,8 +176,8 @@ blockera, ty det går inte att blockera.
 
 ### Är verktyget interaktivt, d.v.s. kan man skriva kommandon på en kommandorad eller liknande och få ett svar?
 Se: **[REPL](https://en.m.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)**  
-På sätt och vis. Man kan t.o.m. redigera program medan de kör och ändringarna slår igenom direkt. Man kan klistra in Scratch-kod m.h.a. 
-ryggsäcken, men man kan inte använda klistra in (Ctrl+V) för att klistar in Scratch-kod från andra program.
+På sätt och vis. Man kan t.o.m. redigera program medan de kör och ändringarna slår igenom direkt. Man kan släpa in in Scratch-kod m.h.a. 
+ryggsäcken, men man kan inte använda klistra in (Ctrl+V) för att klistra in Scratch-kod från andra program.
 
 ### Kan eleverna lätt kan dela kod med varandra och läraren?
 Jo, det finns klassrum och man kan remixa andras program. Jag har dock ej testat klassrummen. Det finns en ryggsäck i
@@ -221,6 +223,10 @@ Ja, och det är mycket lätt att skapa nya processer och för barn är det natur
 Jo, de kallas sprajtar. De är dock inte lika generella som objekt i t.ex. Java eller C++. Sprajtarna kan dock klonas i Scratch 2,
 men inte i Scratch 1.4 eller ScratchJr.
 
+### Strängar?
+Ja, men det finns inte färdiga funktioner för att plocka ut understrängar ur strängar utan det måste göras med program.
+Man kan omvandla listor till strängar automatiskt genom att använda en lista i ett strängsammanhang.
+
 ### Listor?
 Ja, men inte multidimensionella eller listor med listor. Det finns många inbyggda procedurer och funktioner för att hantera listor
 i Scratch 1.4 och Scratch 2. ScratchJr har inte listor.
@@ -235,9 +241,9 @@ ett tillbehör som heter [Sense HAT](https://pbs.twimg.com/media/DHohcvAXgAAH2qv
 Ja, via ScratchX. Man kan t.ex. läsa Twitter och princip göra allt som en webbläsare kan göra om man skriver plugginner i JavaScript: t.ex. [SpeakTweet](https://mobluse.github.io/scratchx/).
 
 ### Preppad?
-Scratch kan användas offline och man kan ladda upp projekten till annan server. Code.org fungerar tyvärr bara online, men programspråket
-Blockly kan köras offline, ty t.ex. MIT App Inventor använder Blockly och kan köras offline i en speciell Linux-version:
-[Appril](http://barryk.org/news/?viewDetailed=00236).
+Scratch kan användas offline och man kan ladda upp projekten till annan server. <!-- Code.org fungerar tyvärr bara online, 
+men programspråket Blockly kan köras offline, ty t.ex. MIT App Inventor använder Blockly och kan köras offline i en speciell 
+Linux-version: [Appril](http://barryk.org/news/?viewDetailed=00236). -->
 
 ### Pris?
 Gratis och Scratch 1.4 kan köras på Raspberry Pi Zero som kostar ca 150 kr med kablar, men utan laddare, minneskort, skärm,
