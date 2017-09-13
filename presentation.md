@@ -73,17 +73,21 @@ Varje video är ca 10 min. Dock tar den inte upp programmering mer i detalj.
 Jag anser att kurser skall vara planerade tidsmässigt så att man inte får för stor arbetsbelastning helt plötsligt. Man kan ta reda
 på hur lång tid kursböckerna tar att läsa genom att hitta talböckerna, ty nästan alla kursböcker finns inlästa. Övriga texter kan
 man mäta tiden för genom att omvandla dem till ljudfiler. Videofilmer som ingår vet man tiden på. Kursmaterialet och uppgifter skall
-vara jämnt utspridda över kursen. Det finns t.ex. "Scratch 2.0 Sams Teach Yourself in 24 Hours" -- där tar varje kapitel med övningar
+vara jämnt utspridda över kursen. Det finns t.ex. *Scratch 2.0 Sams Teach Yourself in 24 Hours* -- där tar varje kapitel med övningar
 1 h, men jag har inte undersökt om den är lämplig som kursbok. 
 
-Jag har läst en hel del böcker om programmering och även barnböcker om programmering. Tänkbara kursböcker är "På äventyr med Raspberry 
-Pi" av Carrie Anne Philbin, "Hjälp ditt barn med programmering" av Carol Vorderman, "Building Android Apps in Easy Steps" av Mike 
-McGrath, "Android-apps uden programmering" av Kristian Langborg-Hansen. De två senare böckerna handlar om MIT App Inventor 2 och 
+Jag har läst en hel del böcker om programmering och även barnböcker om programmering. Tänkbara kursböcker är *På äventyr med Raspberry 
+Pi* av Carrie Anne Philbin, *Hjälp ditt barn med programmering* av Carol Vorderman, *Building Android Apps in Easy Steps* av Mike 
+McGrath, *Android-apps uden programmering* av Kristian Langborg-Hansen. De två senare böckerna handlar om MIT App Inventor 2 och 
 Blockly. Att den sista boken heter "utan programmering" beror på vissa påstår att
 blockprogrammering inte är riktig programmering, men det är programmering -- det är bara en annan sorts redigerare. Man skulle med
-fördel kunna använda Raspberry Pi (en billig $35-dator), men många skolor saknar idag skärmar. Dock kan boken "På äventyr med Raspberry 
-Pi" ändå användas, ty de flesta av de programmeringssystem som presenteras finns även till andra datorer. Dock kan man för tekniklärarna
-låna ut Raspberry Pi:er och andra kortdatorer som Microbit och Arduino.
+fördel kunna använda Raspberry Pi (en billig $35-dator), men många skolor saknar idag skärmar. Dock kan boken *På äventyr med Raspberry 
+Pi* ändå användas, ty de flesta av de programmeringssystem som presenteras i den finns även till andra datorer. 
+Dock kan man för tekniklärarna låna ut Raspberry Pi:er och andra kortdatorer som Microbit och Arduino, och eventuellt robotdelar.
+
+På Linnéuniversitetet kommer *Learn to Program with Scratch: A Visual Introduction to Programming with Games, Art, Science, and Math* 
+av Majed Marji att användas på kursen
+*[Introduktion till Programmering för Grundskolan](http://kursplan.lnu.se/kursplaner/kursplan-1ME150-1.pdf)*.
 
 ## Mål
 Det finns fler mål på kursen och detta är bara ett exempel: Att kunna motivera en kombination av hårdvara, programspråk och 
@@ -154,20 +158,22 @@ Man kan ha procedurer med argument, men de kan inte returnera värden. Man kan a
 att lagra resultat.
 
 ### Finns stöd för att använda funktioner som argument till andra funktioner/underprogram?
-Ja, man kan skicka strängar som meddelanden och man kan ha strängar som argument till procedurer. Dock kan "skicka meddelande" inte
-returnera värden eller ta argument.
+Ja, man kan skicka som meddelanden och man kan ha strängar (d.v.s. texter skapade av programmet) som argument till procedurer som
+sedan blir meddelanden. Dock kan "skicka meddelande" inte returnera värden eller ta argument.
 
 ### Stabilt?
-Jo, det är stabilt och har ett stort utvecklarteam och flera miljoner användare över hela världen.
+Jo, det är stabilt och har ett stort utvecklarteam och flera miljoner användare över hela världen. Scratch är mer buggfritt än liknande
+system: t.ex. Snap!.
 
 ### Skyddat privatliv?
 Jo, man kan använda mikrofonen i Scratch-program, men den kan bara registrera ljudnivån och ej frekvenser. Man kan använda kameran
 för att visa bilder på skärmen, men man kan inte läsa av skärmen förutom med en extremt långsam metod (matcha exakt färg på pixel)
 som skulle ta många timmar. Scratch och dess officiella community är konstruerat för att vara tryggt för barn. Det är t.ex. väldigt
-svårt att mobba någon utan att bli avstängd, ty det finns inga dolda kommunikationssätt.
+svårt att mobba någon utan att bli upptäckt, ty det finns inga dolda kommunikationssätt, och man kan inte frysa ut någon genom att
+blockera, ty det går inte att blockera.
 
 ### Är verktyget interaktivt, d.v.s. kan man skriva kommandon på en kommandorad eller liknande och få ett svar?
-#### Se: [REPL](https://en.m.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)
+Se: **[REPL](https://en.m.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)**  
 På sätt och vis. Man kan t.o.m. redigera program medan de kör och ändringarna slår igenom direkt. Man kan klistra in Scratch-kod m.h.a. 
 ryggsäcken, men man kan inte använda klistra in (Ctrl+V) för att klistar in Scratch-kod från andra program.
 
@@ -180,7 +186,7 @@ hjälp och man kan kommentera projekt. Projekt kan få beröm och kan hamna på 
 ### Är verktyget rimligt vanligt? så att det finns mycket information om det på nätet
 Jo, det är väldigt populärt och det finns inbyggd hjälp och ett stort forum och wiki, samt artiklar och böcker.
 
-### Är verktyget är plattformsoberoende?
+### Är verktyget plattformsoberoende?
 Jo, man kör Scratch 2 i webbläsare med Flash. Den tidigare versionen, Scratch 1.4, är ett desktopprogram, men finns även 
 som app till [iPad](https://itunes.apple.com/us/app/pyonkee/id905012686?mt=8). Scratch 3 skall använda enbart JavaScript och klarar sig 
 alltså utan Flash i Webbläsaren. Offline-versionen av Scratch 2 finns till Mac OS X, Linux, Windows, samt en speciell
@@ -195,13 +201,14 @@ Tyvärr inte, men det finns [ScratchX](http://scratchx.org/) som gör att man ka
 tillägg i webbläsaren. I framtiden kommer kanske Scratch att användas på laboratorier för icke-professionella programmerare 
 som ändå behöver utveckla program då och då.
 
-### Väl utvecklade paket som innehåller funktioner för matematik/naturvetenskap?
+### Väl utvecklade kodbibliotek som innehåller funktioner för matematik/naturvetenskap?
 Inte som standard, men det går att utveckla. Dock är det inte lika lätt att importera kodbibliotek i Scratch som i t.ex. Python,
 ty man måste släpa in dem eller starta från ett mallprojekt.
 
 ### Strömförbrukning/Snabbhet?
-Det är ett tolkat språk och alltså ganska långsamt -- dock finns en turbo-mod. Det finns ett kompilerande system kallat 
-Phosphorus som enbart kräver JavaScript och som är mycket snabbare.
+Scratch är ett tolkat språk och alltså ganska långsamt. Scratch har dessutom fördröjningar så att t.ex. spel skall gå med 
+samma hastighet på alla datorer. Dock kan man stänga av fördröjningarna genom att slå på turbo-mod. Det finns ett kompilerande
+system till Scratch 2 kallat Phosphorus som enbart kräver JavaScript och som är mycket snabbare.
 
 ### Öppen källkod?
 Ja, och gäller Scratch 3, Scratch 2, Scratch 1.4, ScratchJr. Att det är öppen källkod är en fördel eftersom det är mindre risk att det
@@ -228,7 +235,9 @@ ett tillbehör som heter [Sense HAT](https://pbs.twimg.com/media/DHohcvAXgAAH2qv
 Ja, via ScratchX. Man kan t.ex. läsa Twitter och princip göra allt som en webbläsare kan göra om man skriver plugginner i JavaScript: t.ex. [SpeakTweet](https://mobluse.github.io/scratchx/).
 
 ### Preppad?
-Scratch kan användas offline och man kan ladda upp projekten till annan server.
+Scratch kan användas offline och man kan ladda upp projekten till annan server. Code.org fungerar tyvärr bara online, men programspråket
+Blockly kan köras offline, ty t.ex. MIT App Inventor använder Blockly och kan köras offline i en speciell Linux-version:
+[Appril](http://barryk.org/news/?viewDetailed=00236).
 
 ### Pris?
 Gratis och Scratch 1.4 kan köras på Raspberry Pi Zero som kostar ca 150 kr med kablar, men utan laddare, minneskort, skärm,
