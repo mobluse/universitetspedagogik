@@ -176,7 +176,7 @@ blockera, ty det går inte att blockera.
 
 ### Är verktyget interaktivt, d.v.s. kan man skriva kommandon på en kommandorad eller liknande och få ett svar?
 Se: **[REPL](https://en.m.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop)**  
-På sätt och vis. Man kan t.o.m. redigera program medan de kör och ändringarna slår igenom direkt. Man kan släpa in in Scratch-kod m.h.a. 
+På sätt och vis. Man kan t.o.m. redigera program medan de kör och ändringarna slår igenom direkt. Man kan släpa in Scratch-kod m.h.a. 
 ryggsäcken, men man kan inte använda klistra in (Ctrl+V) för att klistra in Scratch-kod från andra program.
 
 ### Kan eleverna lätt kan dela kod med varandra och läraren?
