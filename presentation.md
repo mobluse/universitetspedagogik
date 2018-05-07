@@ -179,7 +179,7 @@ Se: **[REPL](https://en.m.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loo
 På sätt och vis. Man kan t.o.m. redigera program medan de kör och ändringarna slår igenom direkt. Man kan släpa in Scratch-kod m.h.a. 
 ryggsäcken, men man kan inte använda klistra in (Ctrl+V) för att klistra in Scratch-kod från andra program.
 
-### Kan eleverna lätt kan dela kod med varandra och läraren?
+### Kan eleverna lätt dela kod med varandra och läraren?
 Jo, det finns klassrum och man kan remixa andras program. Jag har dock ej testat klassrummen. Det finns en ryggsäck i
 online-redigeraren som gör att man kan transportera kod inom och mellan projekt. Det finns ett community där man kan få 
 hjälp och man kan kommentera projekt. Projekt kan få beröm och kan hamna på första sidan, vilket är en stor ära: t.ex.
